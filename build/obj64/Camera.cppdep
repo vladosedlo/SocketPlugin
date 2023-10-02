@@ -1,0 +1,3 @@
+build/obj64/Camera.o: Camera.cpp SDK/CHeaders/XPLM/XPLMDataAccess.h \
+ SDK/CHeaders/XPLM/XPLMDefs.h SDK/CHeaders/XPLM/XPLMUtilities.h \
+ SDK/CHeaders/XPLM/XPLMPlugin.h
